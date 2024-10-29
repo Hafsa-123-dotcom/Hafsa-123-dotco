@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <p>
+        Hello! My name is <span style="text-decoration: underline;"><b>HAFSA </b></span>. I am a passionate <span style="font-style: italic;">web developer</span> with a <u>love for coding</u>. 
+        I enjoy learning new technologies and working on <span style="text-decoration: line-through;">old</span> projects that challenge my skills. 
+        In my free time, I like to read, travel, and explore the great outdoors.
+    </p>
+</body>
+</html>
+
+
