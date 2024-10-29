@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        section {
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    <p>
+        Click here to visit <a href="https://www.google.com" target="_blank">Google</a>.
+    </p>
+    
+    <p>
+        Go to the <a href="#about">About Section</a> on this page.
+    </p>
+
+    <section id="about">
+        <h2>About Section</h2>
+        <p>This section provides information about the webpage and its purpose.</p>
+    </section>
+</body>
+</html>
